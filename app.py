@@ -74,7 +74,7 @@ if uploaded_files:
 # Question Answering Section
 # -----------------------------
 st.divider()
-st.subheader("❓ Ask a Doubt")
+st.subheader("Hello! May I help you with your course material?")
 
 question = st.text_input("Enter your question")
 
