@@ -1,0 +1,17 @@
+# Uploaded course files
+data/uploads/
+data/processed/
+
+# FAISS vector store
+embeddings/vector_store/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit local files
+.streamlit/
+
+# VSCode / Codespace metadata (optional)
+.vscode/
