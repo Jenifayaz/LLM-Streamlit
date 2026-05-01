@@ -6,3 +6,6 @@ faiss-cpu
 pypdf
 langchain
 accelerate
+python==3.10
+transformers==4.38.0
+torch
