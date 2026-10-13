@@ -1,7 +1,7 @@
 pypdf
 langchain
 accelerate
-python==3.10
+
 streamlit==1.32.0
 transformers==4.38.0
 sentence-transformers==2.5.1
